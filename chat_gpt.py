@@ -77,4 +77,5 @@ def run_linear_regression(data_path, test_size, random_state, epochs, exp_number
     plt.plot(x_step, r2_list, label='R2 During Training')
     plt.plot(x_step, mse_list, label='MSE Loss Training')
     plt.legend(title="Legend", loc='upper right', fontsize='x-small')
+    jirijerijeirjeiorjsiorjisrjisjriosrjiosrjioerjserioseirjseiorjs
     plt.show()
